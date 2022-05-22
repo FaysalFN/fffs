@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    text-decoration: none!important;
+    
+}
+
+header{
+    background-color: #825594;
+
+}
+.header-conatint{
+    height: 320px;
+}
+.header-conatint button{
+    background-color: #eb7d4b;
+    box-shadow: 0 0 5px #eb7d4b;
+}
+.header-conatint button:hover{
+    background-color: #f56a29a1;
+}
+.navbar{
+    background-color: #825594;
+ 
+}
+nav ul li a{
+    color:white!important;
+    border-radius: 10px;
+}
+nav ul li a:hover{
+    background-color: rgba(245, 114, 91, 0.74);
+    border-radius: 10px;
+    transition-duration: 0.7ms;
+}
+.fs-2{
+    font-size: 45px!important;
+}
+
+#hero{
+    background-color: #17c2a4;
+}
+span{
+    border:  2px solid #eb7d4b;
+    border-radius: 10px;   
+}
+.team{
+    background-color: #b9b6b6;
+} 
+.team img{
+    padding-left: 52px!important;
+    margin: 0px 0px 20px 0px;
+
+}
+.team a{
+    padding-left: 85px!important;
+    margin: 0px 0px 20px 0px;
+}
+.profolio{
+    background-color: #eba07e;
+}
+.btn-profolio{
+    padding: 05px 15px ;
+    background-color: #9a2de2;
+    color: aliceblue;
+    border: 2px solid #825594;
+    border-radius: 8px;
+    box-shadow: 0 0 0 0.5px #825594;
+
+}
+.btn-profolio:hover{
+    background-color: #dbd6d6;
+    color: black;
+    
+}
+.btn-prot{
+    margin-top: 50px;
+}
+.btn-prt{
+    padding: 10px 35px;
+    background-color: #17c2a4;
+    color: aliceblue;
+    border: 2px solid #825594;
+    border-radius: 6px;
+
+}
+.btn-prt:hover{
+    background-color: #e943c5;
+}
+.about{
+    background-color: #db6d8e;
+    color: #dbd6d6;
+    
+}
+.about a{
+    color: #0af531;
+}
+
+.about p{
+    font-style: italic!important;
+}
+.abr{
+    margin-top: 150px!important;
+}
+
